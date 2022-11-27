@@ -1,0 +1,20 @@
+{
+    "pages": [
+        "index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "Weixin",
+        "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "plugins": {
+        "ThreeX": {
+          "version": "1.0.5",
+          "provider": "wx5d6376b4fc730db9",
+          "export": "threex.js"
+        }
+    },
+    "sitemapLocation": "sitemap.json"
+}
